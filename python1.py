@@ -1,0 +1,1 @@
+print("this is my first code\nand and I am learning python programming language")
