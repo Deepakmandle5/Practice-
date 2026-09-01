@@ -1,3 +1,4 @@
+# this is the done on 1 september 2026
 '''sting is a word in a single or doubke quotes'''
 name = "Ram"
 classmate = 'shiva'
