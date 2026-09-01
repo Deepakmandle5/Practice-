@@ -1,0 +1,30 @@
+'''strings is a word in single or double  quotes'''
+name = "Ram"
+classmate = 'shiva'
+conversation = ", may i borrow your notes"
+print 'hello'+name 
+
+print (name + conversation)
+
+print('hello '+ name + conversation)
+
+print(classmate[0])
+print(classmate[1])
+print(classmate[2])
+print(classmate[3])
+print(classmate[4])
+'''print(classmate[5])shows the errror because 
+classsmate only consist of 4 charaters''' 
+
+
+# looping through the string 
+for character in name :
+    print (character)
+
+for character in classmate : 
+    print(character)
+
+for character in conversation :
+    print( character)
+
+    
