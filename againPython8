@@ -1,3 +1,4 @@
+#no string manupulation funtion is done
 '''strings is a word in single or double  quotes'''
 name = "Ram"
 classmate = 'shiva'
