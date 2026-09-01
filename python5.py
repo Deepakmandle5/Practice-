@@ -1,3 +1,4 @@
+# this is mini project of calculator 
 #today i learned how to make basic calculator 
 a=5
 b=15
