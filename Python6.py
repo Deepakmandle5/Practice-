@@ -7,8 +7,6 @@ print(a*b*c)
 print(a-b-c)
 print(a/b/c)
 
-
-
 #typecasting
 # explicit typecasting 
 a = "1"
@@ -23,7 +21,6 @@ print(d + e)  # d is implicitly converted to float
 print(type(d))
 print(type(e))  
 print(type(d + e))
-
 
 # user input function
 a=input("Enter your name:")
